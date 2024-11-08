@@ -134,3 +134,9 @@ Mit dieser Checkliste kannst du manches davon Schritt für Schritt abhaken 📝�
 ---
 
 📌 **Hinweis**: Einige Änderungen, wie die Aktualisierung der ELStAM-Datenbank oder der Rentenversicherungsnummer, können automatisch erfolgen. Es ist jedoch ratsam, alle Daten persönlich zu überprüfen, um sicherzustellen, dass keine Fehler auftreten.
+
+
+# 📋 Weitere Ressourcen
+- [Reddit Diskussion über eine Liste](https://old.reddit.com/r/germantrans/comments/1fv5slr/wer_muss_nach_der_v%C3%A4p%C3%A4_kontaktiert_werden/)
+- [Liste von Queer Lexikon](https://formulare.queer-lexikon.net/forms/other/Liste-Namensaenderungen-V2-1.pdf)
+
