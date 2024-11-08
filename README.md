@@ -112,12 +112,14 @@ Mit dieser Checkliste kannst du manches davon Schritt für Schritt abhaken 📝�
   - [ ] Festnetzvertrag
   - [ ] Mobilfunkvertrag
   - [ ] Internetvertrag
+  - [ ] Domainregistrare (DENIC etc.)
 - [ ] **Kundenkarten und Bonusprogramme**
   - [ ] Kundenkarten bei Supermärkten
   - [ ] Bonusprogramme
 - [ ] **Mitgliedschaften**
   - [ ] Vereine
   - [ ] Clubs und Fitnessstudios
+  - [ ] Streaming-Dienste
 
 ---
 
@@ -126,6 +128,8 @@ Mit dieser Checkliste kannst du manches davon Schritt für Schritt abhaken 📝�
   - [ ] Besondere Versicherungen für z.B. Auslandsreisen
 - [ ] **Medizinische Einrichtungen**
   - [ ] Patientenakten und Aufzeichnungen lassen
+  - [ ] Impfpass
+  - [ ] Organspendeausweis
 
 ---
 
