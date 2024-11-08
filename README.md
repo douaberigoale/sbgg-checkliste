@@ -1,3 +1,5 @@
+###### [Hier clicken für die Print Version](https://github.com/douaberigoale/sbgg-checkliste/blob/main/SBGG-Checkliste-Print-Version.pdf)
+
 # ✨ Nach dem SBGG: Deine Update-Checkliste 🎉
 
 🌈✨ **Herzlichen Glückwunsch zu deinem neuen Namen und/oder Geschlechtseintrag!** 🎉 Damit die Änderungen sich im Alltag auswirken können, musst du nur noch deine Dokumente, Konten und Ähnliches auf den neuesten Stand bringen – keine Sorge, das klingt komplizierter, als es ist!
@@ -10,7 +12,6 @@ Mit dieser Checkliste kannst du manches davon Schritt für Schritt abhaken 📝�
 > Stand: 11.2024
 > 
 >  Aktuelle Checkliste verfügbar hier: https://github.com/douaberigoale/sbgg-checkliste
-
 
 ---
 
