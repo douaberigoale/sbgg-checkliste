@@ -19,6 +19,7 @@ Mit dieser Checkliste kannst du manches davon Schritt für Schritt abhaken 📝�
 - [ ] **Standesamt und Meldebehörde/Bürgerbüro**
   - [ ] Personalausweis
   - [ ] Reisepass
+  - [ ] Meldebescheinigung
   - [ ] Eintrag im Melderegister überprüfen
 - [ ] **Krankenkasse**
   - [ ] Neue Gesundheitskarte beantragen
@@ -127,8 +128,9 @@ Mit dieser Checkliste kannst du manches davon Schritt für Schritt abhaken 📝�
 - [ ] **Versicherungsbescheinigungen**
   - [ ] Besondere Versicherungen für z.B. Auslandsreisen
 - [ ] **Medizinische Einrichtungen**
-  - [ ] Patientenakten und Aufzeichnungen lassen
+  - [ ] Patientenakten und Aufzeichnungen
   - [ ] Impfpass
+  - [ ] Krykonservierungsdokumente
   - [ ] Organspendeausweis
 
 ---
