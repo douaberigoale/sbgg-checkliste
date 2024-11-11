@@ -1,8 +1,0 @@
-{
-    "dependencies": {
-        "markdown-it": "^14.1.0",
-        "markdown-it-emoji": "^3.0.0",
-        "markdown-it-task-lists": "^2.1.1",
-        "puppeteer": "^23.7.1"
-    }
-}
