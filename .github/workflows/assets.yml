@@ -1,0 +1,49 @@
+name: Create PDF & README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Set up environment
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+          sudo apt-get install -y fonts-noto-color-emoji
+          sudo apt-get install -y nodejs npm
+          npm install markdown-it markdown-it-task-lists markdown-it-emoji 
+          npx puppeteer browsers install chrome
+
+      - name: Create README
+        run: |
+          pandoc header_link.md opening.md tasks.md closing.md -s -o README.md
+
+      - name: Convert Markdown to HTML
+        run: |
+          node convert.js
+
+      - name: Convert HTML to PDF with Puppeteer
+        run: |
+          node convert-to-pdf.js
+
+      - name: Cleanup
+        run: |
+          rm -rf *.html *.json node_modules
+
+      - name: Update README & PDF
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update README & PDF"
