@@ -1,0 +1,88 @@
+body {
+    font-family: BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif;
+    background-color: #f6f8fa;
+    padding: 0 26px;
+    font-size: 14px;
+    word-wrap: break-word;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 0.5fr;
+    gap: 0px;
+    width: 100%;
+    height: auto;
+}
+
+.list-column, .notes-column {
+    padding: 10px;
+    vertical-align: top;
+}
+
+.list-column {
+    padding-right: 20px;
+    border-right: 1px solid #ccc;
+}
+
+.notes-column {
+    padding-left: 20px;
+    background-image: repeating-linear-gradient(
+        to bottom,
+        transparent,
+        transparent 24px,
+        #ccc 24px,
+        #ccc 25px
+    );
+    min-height: 500px;
+    border-left: 1px solid #ccc;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+h1 {
+    line-height: 1.2;
+    padding-bottom: 0.3em;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+h3 {
+    padding-top: 0.3em;
+    padding-bottom 0:
+}
+
+h1,
+h2,
+h3 {
+    font-weight: normal;
+}
+
+blockquote {
+    margin: 0 7px 0 5px;
+    padding: 0 16px 0 10px;
+    border-left-width: 5px;
+    border-left-style: solid;
+    background: rgba(127, 127, 127, 0.1);
+    border-color: rgba(0, 122, 204, 0.5);
+}
+
+ul,
+ol {
+    padding-left: 1.5em;
+    list-style-type: none;
+}
+
+li:last-child {
+    margin-bottom: 0.3em;
+}
+
+code {
+    font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+    font-size: 1em;
+    line-height: 1.357em;
+}
