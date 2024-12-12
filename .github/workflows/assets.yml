@@ -24,7 +24,7 @@ jobs:
           sudo apt-get install -y pandoc
           sudo apt-get install -y fonts-noto-color-emoji
           sudo apt-get install -y nodejs npm
-          npm install markdown-it markdown-it-task-lists markdown-it-emoji 
+          npm install puppeteer-core markdown-it markdown-it-task-lists markdown-it-emoji 
           npx puppeteer browsers install chrome
 
       - name: Create README
