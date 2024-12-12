@@ -95,6 +95,7 @@
   - [ ] Bonusprogramme
 - [ ] **Mitgliedschaften**
   - [ ] Vereine
+  - [ ] Tasso e.V. (Tierbesitzer:indaten)
   - [ ] Clubs und Fitnessstudios
   - [ ] Streaming-Dienste
   - [ ] Bibliotheksausweis
